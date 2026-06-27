@@ -1,0 +1,11 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:light_blue_dye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomesoplenty:icy_iris"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomeswevegone:winter_scilla"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:blue_orchid"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomesoplenty:blue_hydrangea"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"biomesoplenty:light_blue_flower_petal_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:chest"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:lead"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

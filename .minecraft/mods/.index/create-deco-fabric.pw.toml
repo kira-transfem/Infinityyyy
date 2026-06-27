@@ -1,0 +1,21 @@
+filename = 'createdeco-2.1.1-1.20.1-fabric.jar'
+name = 'Create Deco Fabric'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'createdeco-2.1.1-1.20.1-fabric.jar'
+
+[download]
+hash = '8af20ce558c8027016dfd99cc118a7bc1289a7f7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7721695
+project-id = 739872
+
+[[x-prismlauncher-dependencies]]
+addonId = '624165'
+type = 'REQUIRED'

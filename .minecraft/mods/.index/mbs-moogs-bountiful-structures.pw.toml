@@ -1,0 +1,25 @@
+filename = 'MoogsBountifulStructures-1.20-1.0.3.jar'
+name = 'MoogsBountifulStructures'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.3'
+
+[download]
+hash = '1533bd75aada0408fa6c9c757ee5bc540bd264418c5be5ffa32c81cf3573ba2e9e89250b5f3f5c13289c605807aa76f385b43d22b6ae076f9bef87a98e1e26fe'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Qnb1HbfK/versions/elp6SfNk/MoogsBountifulStructures-1.20-1.0.3.jar'
+
+[update.modrinth]
+mod-id = 'Qnb1HbfK'
+version = 'elp6SfNk'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'HXF82T3G'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1oUDhxuy'
+type = 'REQUIRED'

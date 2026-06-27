@@ -1,0 +1,25 @@
+filename = 'creategoggles-1.20.1-6.1.1-[FABRIC].jar'
+name = 'Create Goggles (Create Plus)'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Create Goggles 6.1.1 [FABRIC]'
+
+[download]
+hash = '137feba5c6ae3a908e5e6be586ce89d9beb608e3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8075047
+project-id = 377835
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '624165'
+type = 'REQUIRED'

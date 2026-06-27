@@ -1,0 +1,38 @@
+filename = 'more-fossils-3.0.1.jar'
+name = 'More Fossils'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.0.1+mod'
+
+[download]
+hash = '7f03ba4e86f25b686f53bbe13b0ef3236918a04b7269e0c0b223e11a39192c02397c0e4019abd843bad73b619193a458f39549956710bdc2495c906128ebf5ef'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6wSvZKQk/versions/2enM2LIf/more-fossils-3.0.1.jar'
+
+[update.modrinth]
+mod-id = '6wSvZKQk'
+version = '2enM2LIf'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'XaDC71GB'
+type = 'REQUIRED'

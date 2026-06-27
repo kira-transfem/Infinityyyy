@@ -1,0 +1,18 @@
+filename = 'avaritia-0.3.1.jar'
+name = 'AvaritiaReborn'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'avaritia-0.3.1.jar'
+
+[download]
+hash = 'b855a0e61baa09a8f3fac702c6a5aec2333c7141'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5444421
+project-id = 1026516

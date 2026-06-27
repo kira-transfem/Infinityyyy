@@ -1,0 +1,18 @@
+filename = 'dynamic-height-fabric-0.2.0+1.21.10(1).jar'
+name = 'Dynamic Height'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.2.0+1.21.10'
+
+[download]
+hash = 'f73c2f720716f0a25112cbf01418f7b9a2c0174e22c9b1689023a6a39cb730741f0dbcd6aa25199dd8180fdcbe9b13d2e3fac4c59837fe6eb7ad3f29c6691f53'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QuEOEjb5/versions/Omb8Bqv9/dynamic-height-fabric-0.2.0%2B1.21.10.jar'
+
+[update.modrinth]
+mod-id = 'QuEOEjb5'
+version = 'Omb8Bqv9'

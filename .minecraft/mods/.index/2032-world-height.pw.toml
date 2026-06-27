@@ -1,0 +1,34 @@
+filename = '2032-world-height-1.0.jar'
+name = '2032 World Height'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.17',
+    '1.17.1',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0+mod'
+
+[download]
+hash = 'fd76b3147eaf5b8285c27677c1b8a8d8252884a6cfe897252f8cec3a1052b9b2379b68ce1519f48a8f46e7be435d722aa4f93077756925928f45e50ff61d2f63'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JTNe4RSx/versions/HPfnOa6G/2032-world-height-1.0.jar'
+
+[update.modrinth]
+mod-id = 'JTNe4RSx'
+version = 'HPfnOa6G'

@@ -1,0 +1,29 @@
+filename = 'xaeroworldmap-fabric-1.20.1-1.40.16.jar'
+name = "Xaero's World Map"
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'fabric-1.20.1-1.40.16.jar'
+
+[download]
+hash = 'c91de579b2c2d4a2e8bfada5c5c8b99b90ed6551'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8042196
+project-id = 317780
+
+[[x-prismlauncher-dependencies]]
+addonId = '636608'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '263420'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

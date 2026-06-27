@@ -1,0 +1,21 @@
+filename = 'MoogsNetherStructures-1.20-3.0.0-alpha.2.jar'
+name = 'MoogsNetherStructures'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '3.0.0-alpha.2'
+
+[download]
+hash = 'a8b43a2487ec66338cdb228447d48f8626be29789d6a9011bbbd06e2239e38cb0a84c0df7f04fbe01741d5ddd2c85ba8f7976839cc3f29d3223687a2d7a01a60'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nGUXvjTa/versions/pON2OPZ4/MoogsNetherStructures-1.20-3.0.0-alpha.2.jar'
+
+[update.modrinth]
+mod-id = 'nGUXvjTa'
+version = 'pON2OPZ4'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1oUDhxuy'
+type = 'REQUIRED'

@@ -1,0 +1,25 @@
+filename = 'firstperson-fabric-2.7.1-mc1.20.1.jar'
+name = 'First-person Model'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.7.1-1.20.1 - Fabric'
+
+[download]
+hash = 'cc6dffa74a0027b4b16a9617cb3d6e41cdea92af'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7956744
+project-id = 333287
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '433760'
+type = 'REQUIRED'

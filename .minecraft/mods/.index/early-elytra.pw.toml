@@ -1,0 +1,32 @@
+filename = 'early-elytra-1.0.0.jar'
+name = 'Early Elytra'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0+mod'
+
+[download]
+hash = 'cd29bcfaec23ab3ff6694605fc5e57018766f43723f2a4d22a0c0eb378c3352ee9ee34fb9958436ea0c0cedf0154547e1d18a595633c31a825271c3bb8fd8e66'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sVgW22C3/versions/xCWvoDQ7/early-elytra-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'sVgW22C3'
+version = 'xCWvoDQ7'

@@ -1,0 +1,18 @@
+filename = 'fastquit-3.0.0+1.20+.jar'
+name = 'FastQuit'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.0.0 - 1.20-1.20.2'
+
+[download]
+hash = '68f080925502a49027e231c63d3b94128ed6499b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4739523
+project-id = 708967

@@ -1,0 +1,57 @@
+filename = 'seasonhud-fabric-1.20.1-2.0.6.jar'
+name = 'SeasonHUD'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-2.0.6'
+
+[download]
+hash = '4ab8c38c46cccaf6c47f8e386acb50a5cbaa3720339ff5e3c2c3049a85fd3edbeeec146225200e9258cce81243904add4447783ed94c38cfe1e472b95e6168b5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iDiIfZLX/versions/CTtL1Pkz/seasonhud-fabric-1.20.1-2.0.6.jar'
+
+[update.modrinth]
+mod-id = 'iDiIfZLX'
+version = 'CTtL1Pkz'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'JkSi2Fzx'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1bokaNcj'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'C255PPUX'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5aaWibi9'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '64FYdx5z'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ohNO6lps'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lfHFW1mp'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'KJe6y9Eu'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'e0bNACJD'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'jtmvUHXj'
+type = 'OPTIONAL'

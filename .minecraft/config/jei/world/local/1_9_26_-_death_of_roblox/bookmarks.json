@@ -1,0 +1,15 @@
+[
+  {"version":3},
+  {"ingredient":{"id":"travelersbackpack:quartz","components":{"travelersbackpack:starter_upgrades":[{"slot":0,"item":{"id":"travelersbackpack:tanks_upgrade","count":1}}]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:standard","components":{"travelersbackpack:starter_upgrades":[{"slot":0,"item":{"id":"travelersbackpack:tanks_upgrade","count":1}}]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:spider","components":{"travelersbackpack:starter_upgrades":[{"slot":0,"item":{"id":"travelersbackpack:tanks_upgrade","count":1}}]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:warden","components":{"travelersbackpack:starter_upgrades":[{"slot":0,"item":{"id":"travelersbackpack:tanks_upgrade","count":1}}]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:squid","components":{"travelersbackpack:starter_upgrades":[{"slot":0,"item":{"id":"travelersbackpack:tanks_upgrade","count":1}}]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:backpack_tank"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:blank_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:fox","components":{"travelersbackpack:starter_upgrades":[{"slot":0,"item":{"id":"travelersbackpack:tanks_upgrade","count":1}}]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:lantern"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:iron_chain"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:repeater"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:comparator"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

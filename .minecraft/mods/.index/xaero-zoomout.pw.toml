@@ -1,0 +1,21 @@
+filename = 'XaeroZoomout-Fabric-1.20-1.1.0.jar'
+name = 'XaeroZoomout'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0'
+
+[download]
+hash = 'f3f2a959db65c843a80f2fda0e747e3316922b5c475d2b51a22337958767eabd5c3992d04bd27f0319f1e966454112454d142216844ee4e783053c484d507c51'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/T6oqPfxF/versions/hcThI3QG/XaeroZoomout-Fabric-1.20-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'T6oqPfxF'
+version = 'hcThI3QG'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'NcUtCpym'
+type = 'OPTIONAL'

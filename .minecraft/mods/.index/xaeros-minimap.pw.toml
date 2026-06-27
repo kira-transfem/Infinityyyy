@@ -1,0 +1,29 @@
+filename = 'xaerominimap-fabric-1.21.10-25.3.5.jar'
+name = "Xaero's Minimap"
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'fabric-1.21.10-25.3.5'
+
+[download]
+hash = '1dfcb91b69c59d1fe53f6f1f3006b2251ef064b0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7412221
+project-id = 263420
+
+[[x-prismlauncher-dependencies]]
+addonId = '317780'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '636608'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'create-structures-0.1.1-1.20.1-FABRIC.jar'
+name = 'project-871698'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'v0.1.1-FABRIC'
+
+[download]
+hash = 'b0adac5af2734590d57e86a270a343abb74dfed4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4802035
+project-id = 871698
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'

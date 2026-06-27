@@ -1,0 +1,21 @@
+filename = 'MoogsVoyagerStructures-1.20-5.0.6.jar'
+name = 'MoogsVoyagerStructures'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '5.0.6'
+
+[download]
+hash = '9a7766853f3acead7a6f8af9c83b9a96d448042769ea0508a74c0c989c03642e4ca73c69556526141ce2fcd51b35d12db70044509d0e7c1563578fbc006f6591'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OQAgZMH1/versions/TIfNi62J/MoogsVoyagerStructures-1.20-5.0.6.jar'
+
+[update.modrinth]
+mod-id = 'OQAgZMH1'
+version = 'TIfNi62J'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1oUDhxuy'
+type = 'REQUIRED'

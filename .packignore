@@ -1,0 +1,44 @@
+.minecraft/.mixin.out
+.minecraft/XaeroWaypoints_BACKUP240807
+.minecraft/backups
+.minecraft/cache
+.minecraft/command_history.txt
+.minecraft/coremods
+.minecraft/debug
+.minecraft/debug-profile.json
+.minecraft/defaultconfigs
+.minecraft/downloads
+.minecraft/ears-debug.log
+.minecraft/hotbar.nbt
+.minecraft/hs_err_pid28808.log
+.minecraft/hs_err_pid44232.log
+.minecraft/hs_err_pid9520.log
+.minecraft/map exports
+.minecraft/moddata
+.minecraft/realms_persistence.json
+.minecraft/replay_pid28808.log
+.minecraft/replay_pid44232.log
+.minecraft/replay_pid9520.log
+.minecraft/resourcepacks/Faithful 32x - 1.21.10.zip.disabled
+.minecraft/resourcepacks/Prime's HD Textures (FREE).zip.disabled
+.minecraft/resourcepacks/VanillaTweaks_r116138_MC1.20.x.zip
+.minecraft/resourcepacks/VanillaTweaks_r211974_MC1.20.x.zip
+.minecraft/saves
+.minecraft/schematics
+.minecraft/server-resource-packs
+.minecraft/servers.dat_old
+.minecraft/shaderpacks/Allium v2.1.2.zip
+.minecraft/shaderpacks/Allium v2.1.2.zip.txt
+.minecraft/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip
+.minecraft/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip.txt
+.minecraft/shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.3
+.minecraft/shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.3.txt
+.minecraft/shaderpacks/ComplementaryUnbound_r5.8.1.zip
+.minecraft/shaderpacks/Shrimple_v0.12(1).zip
+.minecraft/shaderpacks/Shrimple_v0.12(1).zip.txt
+.minecraft/shaderpacks/photon_v1.2a-highQuality.zip.txt
+.minecraft/shaderpacks/photon_v1.2a.zip
+.minecraft/shaderpacks/photon_v1.2a.zip.txt
+.minecraft/texturepacks
+.minecraft/usercache.json
+.minecraft/usernamecache.json
