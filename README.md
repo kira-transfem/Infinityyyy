@@ -3,7 +3,7 @@ Fabric Minecraft 1.20.1 modpack.
 
 ## How to install
 1. Download this repo as a ZIP file.
-2. Unzip it, zip the folder inside the unzipped folder, and use that new zip file as the instance file.
+2. You can use the ZIP file as the instance itself, but this leaves out the icon and adds -main to the instance title. If you want to keep the icon, unzip the repo file, and copy icon.png from the .minecraft folder. After importing the instance, re-add the icon.png to the instance. For keeping the name, you can just rename the zip file to "Infinityyyy".
 3. Import the instance file into your preferred launcher (MultiMC, Prism, or Modrith App)
 4. Make sure Fabric is installed.
 5. Select java 17 installation in instance settings (settings location varies with launcher)
